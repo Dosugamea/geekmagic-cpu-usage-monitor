@@ -38,3 +38,7 @@ Mini resource monitor script for use with GeekMagic device
 
 ## LICENSE
 MIT
+
+## References
+- https://github.com/Dosugamea/geekmagic-openapi
+- https://github.com/Alexshch09/geekmagic-smalltv-ultra-btc-tracker
