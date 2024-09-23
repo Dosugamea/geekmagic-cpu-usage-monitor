@@ -1,4 +1,4 @@
-## GeekMagic CPU usage
+## GeekMagic CPU usage monitor
 ![Python badge](https://img.shields.io/badge/python-3.10-blue)
 
 Mini resource monitor script for use with GeekMagic device
@@ -15,7 +15,8 @@ Mini resource monitor script for use with GeekMagic device
 
 ## How to use
 - 1 Clone this repository
-  - `git clone `
+  - `git clone https://github.com/Dosugamea/geekmagic-cpu-usage-monitor`
+  - `cd geekmagic-cpu-usage-monitor`
 - 2 Install python dependencies
   - `pip install -r requirements.txt`
 - 2 Open main.py in the repository folder
@@ -33,8 +34,9 @@ Mini resource monitor script for use with GeekMagic device
   - assets/lv_5.jpg
 - 5 Run the script
   - `python main.py`
-- 6 It should be work
-  - Please change some codes if it doesn't work
+- 6 It should be working
+  - Please change some codes if it doesn't work.
+  - You must specify your geekMagic device as "PHOTO ALBUM" to use.
 
 ## LICENSE
 MIT
